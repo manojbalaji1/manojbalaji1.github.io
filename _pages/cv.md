@@ -59,12 +59,6 @@ Skills
 * **Web Dev:** Flask, FastAPI
 * **Misc.:** Academic research, teaching, training, consultation
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Opensource Contributions
 ======
 * **CausalML** - https://github.com/uber/causalml
@@ -80,3 +74,9 @@ Certification
 * **The Joy of Computing using Python**. Awarded by Indian Institute of Technology, Ropar.
 * **User-centric Computing for Human-Computer Interaction**. Awarded by Indian Institute of Technology, Guwahati.
 * **Machine Learning|Stanford University**. Awarded by Coursera.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
