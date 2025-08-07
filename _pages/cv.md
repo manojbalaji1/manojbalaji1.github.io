@@ -51,6 +51,7 @@ Work experience
 * **10/2016 - 09/2017**: **Intern**. *Jotarthur*
   * Text analytics engine to understand multiple aspects of customers like sentiment, intent, preference, etc.
   * Rapid Prototyping and Software Development
+
 Skills
 ======
 * **Languages:** **Native:** Tamil **Fluent:** English Hindi Kannada Telugu **Beginner:** Japanese
@@ -73,7 +74,7 @@ Certification
 * **Natural Language Processing**. Awarded by Indian Institute of Technology, Kharagpur.
 * **The Joy of Computing using Python**. Awarded by Indian Institute of Technology, Ropar.
 * **User-centric Computing for Human-Computer Interaction**. Awarded by Indian Institute of Technology, Guwahati.
-* **Machine Learning|Stanford University**. Awarded by Coursera.
+* **Machine Learning, Stanford University**. Awarded by Coursera.
 
 Publications
 ======
